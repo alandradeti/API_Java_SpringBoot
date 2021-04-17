@@ -1,0 +1,4 @@
+com\apijava\crm\ApiJavaSpringBootApplication.class
+com\apijava\crm\controller\ClienteController.class
+com\apijava\crm\repository\ClienteInterface.class
+com\apijava\crm\model\Cliente.class
